@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>masonry</artifactId>
-    <version>3.3.0</version>
+    <version>3.3.1-SNAPSHOT</version>
     <name>Masonry</name>
     <description>WebJar for Masonry</description>
     <url>http://webjars.org</url>
@@ -36,7 +36,7 @@
         <url>http://github.com/webjars/masonry</url>
         <connection>scm:git:https://github.com/webjars/masonry.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/masonry.git</developerConnection>
-        <tag>masonry-3.3.0</tag>
+        <tag>HEAD</tag>
     </scm>
     
     <properties>
